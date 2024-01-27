@@ -74,16 +74,26 @@ Manajemen Transaksi: Middleware dapat menyediakan dukungan untuk manajemen trans
 JAWABAN NO 4
 
 Unit Testing adalah jenis pengujian perangkat lunak di mana unit atau komponen kecil dari suatu program diuji secara terisolasi untuk memastikan bahwa setiap unit berfungsi sebagaimana mestinya. Tujuan utama unit testing adalah untuk memastikan bahwa setiap bagian kecil dari perangkat lunak beroperasi dengan benar, dan juga untuk mendeteksi dan memperbaiki kesalahan sejak dini dalam siklus pengembangan.
+
 Beberapa metode yang umum digunakan dalam unit testing meliputi:
 Test Case: Ini adalah kasus uji individual yang dirancang untuk menguji satu aspek atau fitur tertentu dari unit. Setiap test case berfokus pada satu kondisi atau skenario tertentu.
+
 Fixture: Fixture adalah kondisi awal atau konteks yang ditetapkan sebelum menjalankan serangkaian test case. Ini memastikan bahwa unit diuji dalam situasi yang dikontrol.
+
 Assertion: Pernyataan atau kode yang mengevaluasi apakah hasil yang diharapkan dari suatu test case sesuai dengan hasil aktual yang diperoleh selama pengujian. Jika hasil yang diharapkan tidak sesuai, assertion akan menghasilkan kesalahan.
+
 Mocking: Dalam unit testing, mocking melibatkan pembuatan objek palsu atau simulasi untuk menggantikan objek nyata. Ini membantu dalam mengisolasi unit yang diuji dari dependensi eksternal.
+
 Test Suite: Sebuah kumpulan test case yang dijalankan bersama-sama sebagai satu kesatuan. Test suite memungkinkan pengujian yang komprehensif terhadap suatu unit atau fitur.
+
 Test Runner: Alat atau mekanisme yang menjalankan serangkaian test case atau test suite. Test runner juga melaporkan hasil pengujian, termasuk test case yang gagal.
+
 Code Coverage: Metrik yang mengukur sejauh mana kode sumber diuji selama pengujian. Ini membantu untuk memastikan bahwa sebagian besar kode telah diuji dan mengidentifikasi bagian-bagian yang mungkin memerlukan perhatian lebih lanjut.
+
 White Box Testing: Pendekatan di mana pengujian dilakukan dengan memahami dan memeriksa struktur internal kode sumber. Unit testing sering kali menggunakan white box testing.
+
 Black Box Testing: Pendekatan di mana pengujian dilakukan tanpa memperhatikan struktur internal kode sumber. Test case dirancang berdasarkan spesifikasi eksternal dan perilaku yang diharapkan.
+
 Continuous Integration (CI): Praktek yang melibatkan pengujian otomatis secara terus-menerus setiap kali ada perubahan kode dalam repositori. CI membantu mendeteksi kesalahan lebih awal dalam siklus pengembangan.
 
 JAWABAN NO 5
@@ -97,21 +107,30 @@ Kubernetes (biasa disebut K8s) adalah sistem orkestrasi kontainer yang dirancang
 
 JAWABAN NO 6
 
-CI/CD adalah singkatan dari Continuous Integration (Integrasi Terus-Menerus) dan Continuous Deployment (Penyebaran Terus-Menerus).
 Continuous Integration (CI):
+
 Integrasi Terus-Menerus berarti pengembang secara teratur menggabungkan perubahan kode ke dalam repositori bersama.
 Setiap kali ada perubahan di repositori, CI server akan secara otomatis menjalankan rangkaian tes untuk memastikan bahwa perubahan tersebut tidak merusak fungsionalitas yang sudah ada.
 Jika semua tes berhasil, perubahan tersebut dianggap aman dan siap untuk diintegrasikan ke dalam lingkungan produksi.
+
 Continuous Deployment (CD):
+
 Penyebaran Terus-Menerus melibatkan otomatisasi proses penyebaran aplikasi ke lingkungan produksi setelah berhasil melewati tahap CI.
 Hal ini memastikan bahwa setiap kali ada perubahan yang diuji dan diintegrasikan, aplikasi tersebut dapat secara otomatis diperbarui ke lingkungan produksi tanpa intervensi manusia.
+
 Beberapa tools yang umum digunakan untuk implementasi CI/CD termasuk:
 Jenkins: Jenkins adalah alat CI/CD open-source yang sangat populer. Ini memungkinkan otomatisasi proses pengujian, integrasi, dan penyebaran.
+
 GitLab CI/CD: GitLab menyediakan fitur CI/CD terintegrasi langsung ke dalam platform repositori Git mereka. Ini menyederhanakan konfigurasi dan manajemen CI/CD.
+
 Travis CI: Travis CI adalah layanan CI/CD yang terintegrasi dengan GitHub. Ini mendukung otomatisasi pengujian dan penyebaran aplikasi.
+
 CircleCI: CircleCI adalah platform CI/CD yang mendukung otomatisasi proses pengujian dan penyebaran aplikasi dalam lingkungan cloud.
+
 GitHub Actions: GitHub menyediakan fitur Actions yang memungkinkan pengguna membuat dan mengelola workflow CI/CD langsung dari repositori GitHub mereka.
+
 TeamCity: TeamCity adalah alat CI/CD dari JetBrains yang mendukung otomatisasi pengujian dan penyebaran aplikasi.
+
 AWS CodePipeline: AWS CodePipeline adalah layanan manajemen CI/CD yang terintegrasi dengan layanan AWS lainnya untuk otomatisasi pengembangan dan penyebaran aplikasi di cloud.
 
 
