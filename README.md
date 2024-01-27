@@ -137,6 +137,3 @@ AWS CodePipeline: AWS CodePipeline adalah layanan manajemen CI/CD yang terintegr
 JAWABAN NO 7
 
  https://julia-kheil.github.io/webUAS/
-
-
-JAWABAN NO 7
