@@ -53,6 +53,7 @@ JAWABAN NO 2
 
 
 JAWABAN NO 3
+
 Middleware adalah perangkat lunak yang berada di antara sistem operasi dan aplikasi, bertindak sebagai perantara atau penghubung untuk memfasilitasi komunikasi antara berbagai komponen perangkat lunak atau perangkat keras dalam suatu sistem distribusi.
 Beberapa keuntungan dari penerapan middleware meliputi:
 Interoperabilitas: Middleware memungkinkan sistem atau aplikasi yang dikembangkan menggunakan teknologi atau platform yang berbeda untuk berkomunikasi satu sama lain. Ini meningkatkan interoperabilitas dan memungkinkan integrasi yang lebih mudah antar sistem yang heterogen.
@@ -64,6 +65,7 @@ Fleksibilitas Pengembangan: Middleware memungkinkan pengembang untuk membangun a
 Manajemen Transaksi: Middleware dapat menyediakan dukungan untuk manajemen transaksi, memastikan konsistensi data dan integritas transaksi di seluruh sistem yang terdistribusi.
 
 JAWABAN NO 4
+
 Unit Testing adalah jenis pengujian perangkat lunak di mana unit atau komponen kecil dari suatu program diuji secara terisolasi untuk memastikan bahwa setiap unit berfungsi sebagaimana mestinya. Tujuan utama unit testing adalah untuk memastikan bahwa setiap bagian kecil dari perangkat lunak beroperasi dengan benar, dan juga untuk mendeteksi dan memperbaiki kesalahan sejak dini dalam siklus pengembangan.
 Beberapa metode yang umum digunakan dalam unit testing meliputi:
 Test Case: Ini adalah kasus uji individual yang dirancang untuk menguji satu aspek atau fitur tertentu dari unit. Setiap test case berfokus pada satu kondisi atau skenario tertentu.
@@ -78,6 +80,7 @@ Black Box Testing: Pendekatan di mana pengujian dilakukan tanpa memperhatikan st
 Continuous Integration (CI): Praktek yang melibatkan pengujian otomatis secara terus-menerus setiap kali ada perubahan kode dalam repositori. CI membantu mendeteksi kesalahan lebih awal dalam siklus pengembangan.
 
 JAWABAN NO 5
+
 1. Kontainerisasi:
 Kontainerisasi adalah metode untuk mengemas, mendistribusikan, dan menjalankan aplikasi bersama dengan semua dependensinya dan konfigurasi di dalam sebuah unit yang disebut "kontainer." Kontainer memungkinkan aplikasi untuk berjalan secara konsisten di berbagai lingkungan, baik itu lingkungan pengembangan, uji, atau produksi. Kontainer memberikan isolasi, portabilitas, dan efisiensi dalam penggunaan sumber daya.
 2. Docker:
@@ -86,6 +89,7 @@ Docker adalah platform kontainerisasi yang populer. Docker menyediakan alat dan 
 Kubernetes (biasa disebut K8s) adalah sistem orkestrasi kontainer yang dirancang untuk otomatisasi pengelolaan, penjadwalan, dan penyebaran aplikasi kontainer. Kubernetes memungkinkan pengelolaan yang efisien dan skala besar dari kontainer di lingkungan produksi. Ini menangani penyebaran, penskalaan, dan penanganan kegagalan dengan cara yang dapat diotomatisasi.
 
 JAWABAN NO 6
+
 CI/CD adalah singkatan dari Continuous Integration (Integrasi Terus-Menerus) dan Continuous Deployment (Penyebaran Terus-Menerus).
 Continuous Integration (CI):
 Integrasi Terus-Menerus berarti pengembang secara teratur menggabungkan perubahan kode ke dalam repositori bersama.
