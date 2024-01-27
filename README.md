@@ -55,13 +55,20 @@ JAWABAN NO 2
 JAWABAN NO 3
 
 Middleware adalah perangkat lunak yang berada di antara sistem operasi dan aplikasi, bertindak sebagai perantara atau penghubung untuk memfasilitasi komunikasi antara berbagai komponen perangkat lunak atau perangkat keras dalam suatu sistem distribusi.
+
 Beberapa keuntungan dari penerapan middleware meliputi:
 Interoperabilitas: Middleware memungkinkan sistem atau aplikasi yang dikembangkan menggunakan teknologi atau platform yang berbeda untuk berkomunikasi satu sama lain. Ini meningkatkan interoperabilitas dan memungkinkan integrasi yang lebih mudah antar sistem yang heterogen.
+
 Skalabilitas: Middleware mendukung skala secara efisien dengan menyediakan mekanisme untuk menangani peningkatan beban. Ini memungkinkan sistem untuk berkembang atau menyusut sesuai dengan kebutuhan tanpa mengganggu fungsionalitas keseluruhan.
+
 Abstraksi Kompleksitas: Middleware menyediakan abstraksi yang memungkinkan pengembang untuk fokus pada fungsionalitas aplikasi daripada menghadapi kompleksitas infrastruktur jaringan atau protokol komunikasi yang mendasarinya.
+
 Pengelolaan Distribusi dan Komunikasi: Middleware menyederhanakan pengelolaan distribusi dan komunikasi antar komponen aplikasi atau sistem. Ini dapat mencakup manajemen pesan, pemantauan kinerja, dan penanganan kesalahan komunikasi.
+
 Keamanan: Middleware dapat memberikan lapisan keamanan tambahan dengan menyediakan mekanisme autentikasi, otorisasi, dan enkripsi data selama pertukaran informasi antar komponen atau sistem.
+
 Fleksibilitas Pengembangan: Middleware memungkinkan pengembang untuk membangun aplikasi atau sistem yang modular dan dapat diintegrasikan lebih mudah. Komponen-komponen yang terpisah dapat dikembangkan secara independen dan kemudian diintegrasikan melalui middleware.
+
 Manajemen Transaksi: Middleware dapat menyediakan dukungan untuk manajemen transaksi, memastikan konsistensi data dan integritas transaksi di seluruh sistem yang terdistribusi.
 
 JAWABAN NO 4
