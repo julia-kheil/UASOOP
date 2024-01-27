@@ -134,5 +134,9 @@ TeamCity: TeamCity adalah alat CI/CD dari JetBrains yang mendukung otomatisasi p
 
 AWS CodePipeline: AWS CodePipeline adalah layanan manajemen CI/CD yang terintegrasi dengan layanan AWS lainnya untuk otomatisasi pengembangan dan penyebaran aplikasi di cloud.
 
+JAWABAN NO 7
+
+ https://julia-kheil.github.io/webUAS/
+
 
 JAWABAN NO 7
