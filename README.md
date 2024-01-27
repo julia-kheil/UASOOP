@@ -1,6 +1,10 @@
 # UASOOP
 JAWABAN NO 1
-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bml2ZXJzaXRhcyI6IkRqdWFuZGEiLCJwcm9kaSI6IklsbXUgS29tcHV0ZXIiLCJpYXQiOjE2NzQyNzAwMDB9.Yr3mvqeWO9wVYkKaBAv6dzQHDCvnfN3wqazpe_j97-g
+{
+  "universitas": "Djuanda",
+  "prodi": "Ilmu Komputer",
+  "iat": 1674270000
+}
 
 JAWABAN NO 2
 
