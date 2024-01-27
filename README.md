@@ -119,6 +119,7 @@ Penyebaran Terus-Menerus melibatkan otomatisasi proses penyebaran aplikasi ke li
 Hal ini memastikan bahwa setiap kali ada perubahan yang diuji dan diintegrasikan, aplikasi tersebut dapat secara otomatis diperbarui ke lingkungan produksi tanpa intervensi manusia.
 
 Beberapa tools yang umum digunakan untuk implementasi CI/CD termasuk:
+
 Jenkins: Jenkins adalah alat CI/CD open-source yang sangat populer. Ini memungkinkan otomatisasi proses pengujian, integrasi, dan penyebaran.
 
 GitLab CI/CD: GitLab menyediakan fitur CI/CD terintegrasi langsung ke dalam platform repositori Git mereka. Ini menyederhanakan konfigurasi dan manajemen CI/CD.
